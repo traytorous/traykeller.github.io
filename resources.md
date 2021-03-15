@@ -1,3 +1,7 @@
+---
+layout: page
+title: About
+---
 ###Resoure pages
 
 hackthissite.org
