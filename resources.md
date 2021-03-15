@@ -1,9 +1,10 @@
 ---
 layout: page
-title: About
+title: Resource
 ---
-### Resoure pages
+# Resourse page
 
+### CTF and Wargames
 - hackthissite.org
 - overthewire.org
 - pwnable.kr
@@ -22,7 +23,7 @@ title: About
 - picoctf.com (# Very good for beginners)
 - crackmes.one (# Very nice reverse engineering ctf site. Ton of binaries for different platforms)
 
-Blogs and other helpful sites
+### Blogs and other helpful sites
 
 - Corelan Security ~ (Penetration Tester blog)
 - Rapid 7 blog ~ (Metasploit Developer blog)
