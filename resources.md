@@ -2,7 +2,7 @@
 layout: page
 title: Resource
 ---
-# Resourse page
+# Resourses
 
 ### CTF and Wargames
 
