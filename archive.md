@@ -2,7 +2,7 @@
 layout: page
 title: Archive
 ---
-
+# Archive
 <section>
   {% if site.posts[0] %}
 
