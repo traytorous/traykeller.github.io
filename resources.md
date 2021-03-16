@@ -5,27 +5,6 @@ title: Resource
 # Resourse page
 
 ### CTF and Wargames
-- hackthissite.org
-- overthewire.org
-- pwnable.kr
-- root-me.org
-- Hackthebox.eu (#This site is pretty hard to get into btw)
-- Embedded Corruption (Learn how to use a debugger here. YOU NEED TO KNOW ASSEMBLY FOR THIS ONE)
-- Hacker101.com (web application security)
-- ringerz0ctf (# Good site really enjoyed it.)
-- io.netgarage.org (# Overthewire but for actually writing exploits. You need to know C for this one)
-- w3challs.com (# Had problems logging into this one -> will try later)
-- hax.tor.hu (#very old ctf site that focuses on php vulnerability)
-- pwnable.tw (#It seems these are just binary exploitation challenges. Much like pwnable.kr)
-- ctflearn.com (#This one’s a good one for security in general. Has good difficutly levels)
-- smashthestack.org
-- pwnadventure.com
-- picoctf.com (# Very good for beginners)
-- crackmes.one (# Very nice reverse engineering ctf site. Ton of binaries for different platforms)
-
-### Blogs and other helpful sites
-
-
 
 <ul>
 <li><a href="https://www.hackthissite.org/" rel="nofollow">hackthissite.org</a></li>
@@ -76,5 +55,5 @@ title: Resource
 <li><a href="https://www.linode.com/docs/">Linode</a> (Documentation for Devops and System admins)</li>
 <li><a href="https://phoenixnap.com/">Phoenixnap</a> (Devops documenation)</li>
 </ul>
-</li>
+
 </ul>
