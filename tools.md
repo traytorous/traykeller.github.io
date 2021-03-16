@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: Tools
+---
 #Tool and Links
 <ul>
 <li><strong>0trace</strong> 1.5 A hop enumeration tool <a href="http://jon.oberheide.org/0trace/" rel="nofollow">http://jon.oberheide.org/0trace/</a></li>
