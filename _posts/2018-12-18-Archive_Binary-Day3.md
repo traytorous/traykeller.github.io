@@ -5,7 +5,7 @@ published: true
 
 <h1>Plans</h1>
 
-<h3>This post is from a blog series that I did 3 years ago. I am storing it here because it was part of my my cybersecurity journey and it is still dear to me. Please enjoy.<h3/>
+<h3>This post is from a blog series that I did 3 years ago. I am storing it here because it was part of my my cybersecurity journey and it is still dear to me. Please enjoy.</h3>
 <p>It&#8217;s 3:51 am and learning about the CPU and memory is a challenging task. I feel that a lot of gaps in my knowledge are starting to be filled. I read about 70 pages of this book, <a href="https://www.amazon.com/Assembly-language-x86-processors-IRVINE-ebook/dp/B079DYP4LM/ref=sr_1_5?s=books&amp;ie=UTF8&amp;qid=1545123219&amp;sr=1-5&amp;keywords=x86">Assembly Language x86.</a> It was pretty good. Most of my notes that I&#8217;m gonna put up are from the book. Learned more about registers and how the CPU takes data from peripheral devices and ram. The other book I had that in my notes I did not read because it focused on a higher level version of the assembly which to me would not be useful in my situation. My prime focus is learning x86 assembly because it can be used on both x86 and x64 CPUs. Tomorrow I shall be reading more on assembly and Reverse Engineering.</p>
 <h3>Notes</h3>
 <p>Day 3<br />
