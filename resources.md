@@ -54,6 +54,7 @@ title: Resource
 <li><a href="https://linuxize.com/">Linuxize</a> (Linux Cheatsheet and helpful programming hints (My favorite))</li>
 <li><a href="https://www.linode.com/docs/">Linode</a> (Documentation for Devops and System admins)</li>
 <li><a href="https://phoenixnap.com/">Phoenixnap</a> (Devops documenation)</li>
+<li><a href="http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/"> GPG Key cheatsheet </a></li>
 </ul>
 
 </ul>
