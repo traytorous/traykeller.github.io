@@ -46,6 +46,7 @@ title: Resource
 <li><a href="https://reversing.io/resources/">reversing.io</a> ~ (Ton of reverse engineering resources)</li>
 <li><a href="http://www.cs.virginia.edu/~evans/cs216/guides/x86.html">cs.virginia.edu</a></li>
 <li><a href="https://samsclass.info/">samsclass</a> ~ (Cybersecurity classroom resources)</li>
+<li><a href="https://opensecuritytraining.info/Welcome.html">OpenSecurity</a> ~ ( Another Cybersecurity classroom resources)</li>  
 <li><a href="https://github.com/OpenCyberTranslationProject/the-book-of-secret-knowledge">Cybersecurity links</a> ~ (Links to look back on)</li>
 <li><a href="https://tuts4you.com/download/2874/">Tuts4you(reverse engineering) ~(Tutorial)</a></li>
 <li><a href="https://www.malwaretech.com/">MalwareTech</a>(Malware analysis blog)</li>
