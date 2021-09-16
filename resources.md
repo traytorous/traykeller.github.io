@@ -56,6 +56,7 @@ title: Resource
 <li><a href="https://www.linode.com/docs/">Linode</a> (Documentation for Devops and System admins)</li>
 <li><a href="https://phoenixnap.com/">Phoenixnap</a> (Devops documenation)</li>
 <li><a href="http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/"> GPG Key cheatsheet </a></li>
+<li><a href="https://pwn.college/"> pwn.college</a> (Open source college exploitation class)</li>
 </ul>
 
 </ul>
